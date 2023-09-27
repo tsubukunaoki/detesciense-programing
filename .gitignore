@@ -2,5 +2,5 @@
 .DS_Store
 #logディレクトリ異垢のファイル
 /log
-
+# 拡張子が.xlsxというファイル
 *.xlsx
